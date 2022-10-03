@@ -1,0 +1,8 @@
+Streamlit TypeError: Protocols cannot be instantiated
+
+
+Solution
+
+pip uninstall streamlit
+
+pip install streamlit==1.11.0
